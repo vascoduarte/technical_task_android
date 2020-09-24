@@ -43,4 +43,7 @@ Don't spend more than 3 hours working on this. Don't worry if you don't get the 
 ### Deliverables
 - The forked version of this repo
 
+### Instructions
+- Add your https://gorest.co.in/ api key in *.di.NetworkModule
+
 
